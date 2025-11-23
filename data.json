@@ -1,0 +1,323 @@
+{
+  "jogos": [
+    {
+      "nome": "Devil May Cry 3",
+      "detalhe": "Lançamento: 2005",
+      "descricao": "Um jogo de ação hack and slash que serve como um prequel para a série, seguindo um jovem Dante em sua batalha contra seu irmão gêmeo, Vergil.",
+      "link": "https://www.capcom-games.com/dmc/",
+      "imagem": "assets/images/dmc3.jpg"
+    },
+    {
+      "nome": "Fortnite",
+      "detalhe": "Lançamento: 2017",
+      "descricao": "Um popular jogo de battle royale onde 100 jogadores lutam para ser o último sobrevivente. Conhecido por suas mecânicas de construção e eventos ao vivo.",
+      "link": "https://www.epicgames.com/fortnite/",
+      "imagem": "assets/images/fortnite.jpg"
+    },
+    {
+      "nome": "League of Legends",
+      "detalhe": "Lançamento: 2009",
+      "descricao": "Um MOBA (Multiplayer Online Battle Arena) onde duas equipes de cinco campeões competem para destruir a base inimiga.",
+      "link": "https://www.leagueoflegends.com/",
+      "imagem": "assets/images/lol.jpg"
+    },
+    {
+      "nome": "Hades 2",
+      "detalhe": "Acesso Antecipado: 2024",
+      "descricao": "A sequência do aclamado roguelike, onde você joga como Melinoë, a Princesa do Submundo, para derrotar o Titã do Tempo, Cronos.",
+      "link": "https://www.supergiantgames.com/games/hades-ii/",
+      "imagem": "assets/images/hades2.png"
+    },
+    {
+      "nome": "Clash Royale",
+      "detalhe": "Lançamento: 2016",
+      "descricao": "Um jogo de estratégia em tempo real para dispositivos móveis que combina elementos de jogos de cartas colecionáveis, tower defense e MOBA.",
+      "link": "https://clashroyale.com/",
+      "imagem": "assets/images/clash-royale.jpg"
+    },
+    {
+      "nome": "Minecraft",
+      "detalhe": "Lançamento: 2011",
+      "descricao": "Um jogo sandbox que permite aos jogadores construir com uma variedade de blocos em um mundo 3D gerado proceduralmente, oferecendo liberdade total.",
+      "link": "https://www.minecraft.net/",
+      "imagem": "assets/images/minecraft.jpg"
+    },
+    {
+      "nome": "The Witcher 3: Wild Hunt",
+      "descricao": "Um RPG de ação em mundo aberto onde você joga como Geralt de Rívia, um caçador de monstros, em busca de sua filha adotiva em um mundo devastado pela guerra.",
+      "detalhe": "CD Projekt Red, 2015",
+      "link": "https://www.thewitcher.com/en/witcher3",
+      "imagem": "assets/images/tw3.jpg"
+    },
+    {
+      "nome": "Red Dead Redemption 2",
+      "descricao": "Uma épica história de fora da lei no final da era do Velho Oeste americano. Jogue como Arthur Morgan, um membro da gangue Van der Linde, lutando para sobreviver.",
+      "detalhe": "Rockstar Games, 2018",
+      "link": "https://www.rockstargames.com/reddeadredemption2",
+      "imagem": "assets/images/rdr2.jpg"
+    },
+    {
+      "nome": "The Legend of Zelda: Breath of the Wild",
+      "descricao": "Explore o vasto reino de Hyrule neste jogo de ação e aventura em mundo aberto. Resolva quebra-cabeças, lute contra inimigos e descubra os segredos de um reino em ruínas.",
+      "detalhe": "Nintendo, 2017",
+      "link": "https://www.zelda.com/breath-of-the-wild/",
+      "imagem": "assets/images/zelda.jpg"
+    },
+    {
+      "nome": "God of War (2018)",
+      "descricao": "Kratos, agora vivendo como um homem no reino dos deuses e monstros nórdicos, deve lutar para sobreviver e ensinar seu filho a fazer o mesmo.",
+      "detalhe": "Santa Monica Studio, 2018",
+      "link": "https://www.playstation.com/pt-br/games/god-of-war/",
+      "imagem": "assets/images/god.jpg"
+    },
+    {
+      "nome": "Elden Ring",
+      "descricao": "Um RPG de ação de fantasia sombria criado por Hidetaka Miyazaki (FromSoftware) e George R. R. Martin. Explore as Terras Intermédias e torne-se o Lorde Prístino.",
+      "detalhe": "FromSoftware, 2022",
+      "link": "https://en.bandainamcoent.eu/elden-ring",
+      "imagem": "assets/images/elden.jpg"
+    },
+    {
+      "nome": "Stardew Valley",
+      "descricao": "Crie a fazenda dos seus sonhos neste RPG de simulação de vida rural. Cultive, pesque, minere e faça amizade com os habitantes da cidade de Pelican Town.",
+      "detalhe": "ConcernedApe, 2016",
+      "link": "https://www.stardewvalley.net/",
+      "imagem": "assets/images/stardew-valley.jpg"
+    },
+    {
+      "nome": "Among Us",
+      "descricao": "Um jogo de dedução social e trabalho em equipe no espaço. Prepare sua nave para a partida, mas cuidado com os impostores que tentarão sabotar e eliminar a tripulação.",
+      "detalhe": "Innersloth, 2018",
+      "link": "https://www.innersloth.com/games/among-us/",
+      "imagem": "assets/images/among.jpg"
+    },
+    {
+      "nome": "Subnautica",
+      "descricao": "Após um pouso forçado em um mundo oceânico alienígena, o único caminho é para baixo. Explore recifes de corais, vulcões submarinos e enfrente criaturas perigosas para sobreviver.",
+      "detalhe": "Unknown Worlds, 2018",
+      "link": "https://unknownworlds.com/subnautica/",
+      "imagem": "assets/images/subnautica.jpg"
+    },
+    {
+      "nome": "Civilization VI",
+      "descricao": "Um jogo de estratégia baseado em turnos onde você tenta construir um império para resistir ao teste do tempo. Lidere sua civilização da Idade da Pedra à Era da Informação.",
+      "detalhe": "Firaxis Games, 2016",
+      "link": "https://civilization.com/",
+      "imagem": "assets/images/civi.jpg"
+    }
+  ],
+  "animes": [
+    {
+      "nome": "Hunter x Hunter (2011)",
+      "detalhe": "Estúdio: Madhouse",
+      "descricao": "Gon Freecss sonha em se tornar um Hunter para encontrar seu pai. Ao longo do caminho, ele faz amigos e enfrenta desafios mortais.",
+      "link": "https://www.crunchyroll.com/pt-br/series/GY3VKX1MR/hunter-x-hunter",
+      "imagem": "assets/images/hxh.jpg"
+    },
+    {
+      "nome": "Naruto",
+      "detalhe": "Estúdio: Pierrot",
+      "descricao": "A jornada de Naruto Uzumaki, um jovem ninja que busca reconhecimento e sonha em se tornar o Hokage, o líder de sua vila.",
+      "link": "https://www.crunchyroll.com/pt-br/series/GY9PJ5KWR/naruto",
+      "imagem": "assets/images/naruto.jpg"
+    },
+    {
+      "nome": "Dragon Ball",
+      "detalhe": "Estúdio: Toei Animation",
+      "descricao": "Acompanha as aventuras de Son Goku, desde sua infância até se tornar o maior guerreiro da Terra, enquanto ele treina artes marciais e explora o mundo em busca das sete Esferas do Dragão.",
+      "link": "https://www.crunchyroll.com/pt-br/series/G8DHV7W21/dragon-ball",
+      "imagem": "assets/images/dragon-ball.png"
+    },
+    {
+      "nome": "Kimetsu no Yaiba (Demon Slayer)",
+      "detalhe": "Estúdio: Ufotable",
+      "descricao": "Tanjiro Kamado busca uma cura para sua irmã, que foi transformada em um demônio, e se torna um caçador de demônios para vingar sua família.",
+      "link": "https://www.crunchyroll.com/pt-br/series/GY5P48XEY/demon-slayer-kimetsu-no-yaiba",
+      "imagem": "assets/images/demon-slayer.jpg"
+    },
+    {
+      "nome": "Solo Leveling",
+      "detalhe": "Estúdio: A-1 Pictures",
+      "descricao": "Em um mundo com caçadores de monstros, Sung Jinwoo, o mais fraco de todos, recebe um poder único que o permite subir de nível e se tornar o mais forte.",
+      "link": "https://www.crunchyroll.com/pt-br/series/GDKHZEP19/solo-leveling",
+      "imagem": "assets/images/solo-leveling.png"
+    },
+    {
+      "nome": "Jujutsu Kaisen",
+      "detalhe": "Estúdio: MAPPA",
+      "descricao": "Yuji Itadori se envolve com uma sociedade secreta de Feiticeiros Jujutsu para eliminar uma maldição, embarcando em uma jornada perigosa.",
+      "link": "https://www.crunchyroll.com/pt-br/series/GRDV0019R/jujutsu-kaisen",
+      "imagem": "assets/images/jujutsu.jpg"
+    },
+    {
+      "nome": "Attack on Titan (Shingeki no Kyojin)",
+      "descricao": "Em um mundo onde a humanidade vive cercada por muralhas para se proteger de titãs devoradores de humanos, Eren Yeager jura exterminar todos os titãs após uma tragédia pessoal.",
+      "detalhe": "Wit Studio / MAPPA",
+      "link": "https://www.crunchyroll.com/pt-br/series/GR751KNZY/attack-on-titan",
+      "imagem": "assets/images/aot.jpg"
+    },
+    {
+      "nome": "Fullmetal Alchemist: Brotherhood",
+      "descricao": "Dois irmãos alquimistas, Edward e Alphonse Elric, buscam a Pedra Filosofal para restaurar seus corpos após uma tentativa fracassada de transmutação humana.",
+      "detalhe": "Bones, 2009",
+      "link": "https://www.crunchyroll.com/pt-br/series/G6J070W46/fullmetal-alchemist-brotherhood",
+      "imagem": "assets/images/fullma.png"
+    },
+    {
+      "nome": "Steins;Gate",
+      "descricao": "Um grupo de amigos descobre um método de enviar mensagens para o passado, desencadeando uma série de eventos que alteram drasticamente seu futuro.",
+      "detalhe": "White Fox, 2011",
+      "link": "https://www.crunchyroll.com/pt-br/series/G6WEM1V36/steinsgate",
+      "imagem": "assets/images/steins.jpg"
+    },
+    {
+      "nome": "Cyberpunk: Edgerunners",
+      "descricao": "Em uma distopia futurista, um jovem de rua tenta sobreviver em Night City como um mercenário conhecido como 'edgerunner'.",
+      "detalhe": "Studio Trigger, 2022",
+      "link": "https://www.netflix.com/title/81054853",
+      "imagem": "assets/images/cyberp.jpg"
+    },
+    {
+      "nome": "One-Punch Man",
+      "descricao": "Saitama é um herói tão poderoso que consegue derrotar qualquer inimigo com um único soco, o que o leva a uma crise existencial por falta de desafios.",
+      "detalhe": "Madhouse / J.C.Staff",
+      "link": "https://www.crunchyroll.com/pt-br/series/G6DK0X2P6/one-punch-man",
+      "imagem": "assets/images/onepunch.jpg"
+    },
+    {
+      "nome": "Death Note",
+      "descricao": "Um estudante genial encontra um caderno sobrenatural que lhe permite matar qualquer pessoa cujo nome ele escreva nele, iniciando uma cruzada para criar um novo mundo sem crimes.",
+      "detalhe": "Madhouse, 2006",
+      "link": "https://www.crunchyroll.com/pt-br/series/G6P58V54R/death-note",
+      "imagem": "assets/images/deathnote.jpg"
+    },
+    {
+      "nome": "My Hero Academia (Boku no Hero Academia)",
+      "descricao": "Em um mundo onde quase todos têm superpoderes, um garoto nascido sem eles sonha em se tornar o maior herói de todos e herda os poderes do lendário All Might.",
+      "detalhe": "Bones",
+      "link": "https://www.crunchyroll.com/pt-br/series/G6NQ5DWZ6/my-hero-academia",
+      "imagem": "assets/images/boku-no-hero.png"
+    },
+    {
+      "nome": "Vinland Saga",
+      "descricao": "Acompanha a jornada de Thorfinn, um jovem viking que busca vingança pela morte de seu pai, em meio a guerras e explorações na Europa medieval.",
+      "detalhe": "Wit Studio / MAPPA",
+      "link": "https://www.crunchyroll.com/pt-br/series/GEXH3WKK0/vinland-saga",
+      "imagem": "assets/images/vinland.jpg"
+    },
+    {
+      "nome": "JoJo's Bizarre Adventure",
+      "descricao": "A saga de várias gerações da família Joestar, cujos membros descobrem que estão destinados a enfrentar inimigos sobrenaturais usando poderes únicos.",
+      "detalhe": "David Production",
+      "link": "https://www.crunchyroll.com/pt-br/series/GYP8DP1Y6/jojos-bizarre-adventure",
+      "imagem": "assets/images/jojo.jpg"
+    }
+  ],
+  "esportes": [
+    {
+      "nome": "Futebol",
+      "detalhe": "Popularidade: Global",
+      "descricao": "O esporte mais popular do mundo, jogado por duas equipes de onze jogadores que tentam marcar gols na rede adversária.",
+      "link": "https://www.fifa.com/",
+      "imagem": "assets/images/futebol.jpg"
+    },
+    {
+      "nome": "Corrida",
+      "detalhe": "Tipo: Individual / Atletismo",
+      "descricao": "Uma das formas mais antigas de competição atlética, envolvendo velocidade em distâncias variadas, desde sprints curtos a maratonas.",
+      "link": "https://worldathletics.org/",
+      "imagem": "assets/images/corrida.jpg"
+    },
+    {
+      "nome": "Boxe",
+      "detalhe": "Tipo: Combate",
+      "descricao": "Um esporte de combate e arte marcial em que dois oponentes de peso semelhante lutam usando apenas os punhos em uma série de rounds.",
+      "link": "https://wbcboxing.com/",
+      "imagem": "assets/images/boxe.jpg"
+    },
+    {
+      "nome": "Basquete",
+      "detalhe": "Tipo: Equipe",
+      "descricao": "Um esporte de equipe em que dois times de cinco jogadores tentam marcar pontos arremessando uma bola através de um aro elevado.",
+      "link": "https://www.nba.com/",
+      "imagem": "assets/images/basquete.jpg"
+    },
+    {
+      "nome": "Natação",
+      "detalhe": "Tipo: Individual / Aquático",
+      "descricao": "A propulsão do corpo através da água por meio do movimento combinado de braços e pernas. É um esporte olímpico popular e uma atividade recreativa.",
+      "link": "https://www.worldaquatics.com/",
+      "imagem": "assets/images/natacao.png"
+    },
+    {
+      "nome": "Ciclismo (Biking)",
+      "detalhe": "Tipo: Individual / Equipe",
+      "descricao": "Esporte que envolve o uso de bicicletas para transporte, recreação ou competição. Inclui modalidades como estrada, montanha (MTB) e pista.",
+      "link": "https://www.uci.org/",
+      "imagem": "assets/images/ciclismo.jpg"
+    },
+    {
+      "nome": "Tênis",
+      "descricao": "Esporte de raquete jogado individualmente contra um único oponente (simples) ou entre duas equipes de dois jogadores cada (duplas).",
+      "detalhe": "Tipo: Individual / Duplas",
+      "link": "https://www.atptour.com/",
+      "imagem": "assets/images/tenis.jpg"
+    },
+    {
+      "nome": "Voleibol",
+      "descricao": "Esporte de equipe em que duas equipes de seis jogadores são separadas por uma rede. Cada equipe tenta marcar pontos ao aterrissar uma bola no campo da outra equipe.",
+      "detalhe": "Tipo: Equipe",
+      "link": "https://www.fivb.com/",
+      "imagem": "assets/images/voleibol.jpg"
+    },
+    {
+      "nome": "Fórmula 1",
+      "descricao": "A mais alta classe de corrida de automóveis monopostos sancionada pela Federação Internacional de Automobilismo (FIA).",
+      "detalhe": "Tipo: Automobilismo",
+      "link": "https://www.formula1.com/",
+      "imagem": "assets/images/formula-1.jpg"
+    },
+    {
+      "nome": "Skateboarding",
+      "descricao": "Esporte de ação que envolve andar e realizar manobras usando um skate. Inclui modalidades como street, vertical e park.",
+      "detalhe": "Tipo: Individual / Urbano",
+      "link": "https://www.worldskate.org/",
+      "imagem": "assets/images/skate-boarding.jpg"
+    },
+    {
+      "nome": "Surf",
+      "descricao": "Esporte de superfície aquática no qual o surfista desliza sobre a face de uma onda em movimento, que geralmente o leva em direção à costa.",
+      "detalhe": "Tipo: Individual / Aquático",
+      "link": "https://www.worldsurfleague.com/",
+      "imagem": "assets/images/surfing.jpg"
+    },
+    {
+      "nome": "MMA (Artes Marciais Mistas)",
+      "descricao": "Esporte de combate de contato total que permite o uso de técnicas de striking e grappling, tanto em pé quanto no chão, de uma variedade de outras artes marciais.",
+      "detalhe": "Tipo: Combate",
+      "link": "https://www.ufc.com.br/",
+      "imagem": "assets/images/mma.jpg"
+    },
+    {
+      "nome": "Ginástica Artística",
+      "descricao": "Uma disciplina da ginástica na qual os atletas realizam rotinas curtas em diferentes aparelhos, como barras assimétricas, trave de equilíbrio e solo.",
+      "detalhe": "Tipo: Individual",
+      "link": "https://www.gymnastics.sport/",
+      "imagem": "assets/images/ginastica.jpg"
+    },
+    {
+      "nome": "eSports (CS:GO, Valorant, etc.)",
+      "descricao": "Competições de jogos eletrônicos organizadas, geralmente entre jogadores profissionais, individualmente ou em equipes.",
+      "detalhe": "Tipo: Competição Digital",
+      "link": "https://www.eslgaming.com/",
+      "imagem": "assets/images/esports.jpg"
+    },
+    {
+      "nome": "Handebol",
+      "descricao": "Um esporte de equipe em que duas equipes de sete jogadores passam uma bola usando as mãos com o objetivo de arremessá-la ao gol do adversário.",
+      "detalhe": "Tipo: Equipe",
+      "link": "https://www.ihf.info/",
+      "imagem": "assets/images/handbol.jpg"
+    }
+  ]
+}
