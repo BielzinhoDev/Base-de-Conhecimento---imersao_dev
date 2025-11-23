@@ -15,7 +15,7 @@ O objetivo deste projeto é criar uma interface amigável onde um chatbot, alime
 *   **Respostas Contextuais**: A IA utiliza os dados do projeto para formular respostas precisas.
 *   **Interface Limpa**: Um layout simples e intuitivo para facilitar a interação.
 
-![Demonstração do Projeto](https://bielzinhodev.github.io/Base-de-Conhecimento---imersao_dev/)
+Demonstração do Projeto (https://bielzinhodev.github.io/Base-de-Conhecimento---imersao_dev/)
 
 ## 🚀 Tecnologias Utilizadas
 
@@ -63,7 +63,7 @@ O projeto está organizado da seguinte forma:
 ## 🙏 Agradecimentos
 
 *   À **Alura** e ao **Google** pela oportunidade de aprendizado na Imersão Dev.
-*   Aos instrutores **Ahirton** **Guilherme Lima** **Mônica** e à comunidade pelo suporte durante o desenvolvimento.
+*   Aos instrutores **Ahirton** , **Guilherme Lima** , **Mônica** e à comunidade pelo suporte durante o desenvolvimento.
 
 ---
 Feito com ❤️ por **Gabriel Alexandre**.
