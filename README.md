@@ -1,28 +1,27 @@
 # 🧠 Base de Conhecimento - Imersão Dev Alura & Google
 
-Bem-vindo ao projeto Base de Conhecimento! Esta é uma aplicação web desenvolvida durante a 6ª edição da **Imersão Dev da Alura em parceria com o Google**, focada em explorar as capacidades da API do Gemini para criar um chatbot interativo que consome uma base de dados local.
+Bem-vindo ao projeto Base de Conhecimento! Esta é uma aplicação web desenvolvida durante a 6ª edição da **Imersão Dev da Alura em parceria com o Google**, focada na criação de uma interface para visualizar e pesquisar dados de forma dinâmica, permitindo uma expêriencia agradável ao usuário.
 
 ## 📖 Descrição do Projeto
 
-O objetivo deste projeto é criar uma interface amigável onde um chatbot, alimentado pela IA do Google (Gemini), responde a perguntas do usuário com base em um conjunto de dados sobre **Jogos, Animes e Esportes**. A aplicação lê as informações de um arquivo JSON local e as utiliza como fonte de conhecimento para fornecer respostas relevantes e contextuais.
+O objetivo deste projeto é criar uma galeria interativa que exibe informações sobre **Jogos, Animes e Esportes**. A aplicação permite que o usuário filtre o conteúdo por categoria ou busque por um item específico através de um campo de busca.
 
-É uma demonstração prática de como integrar uma IA em uma aplicação front-end para criar experiências de usuário mais dinâmicas e inteligentes.
+É uma demonstração prática de como manipular o DOM e consumir dados de um arquivo local (JSON) para criar uma experiência de usuário fluida e responsiva no front-end.
 
 ## ✨ Funcionalidades
 
-*   **Chatbot Interativo**: Converse com um chatbot que entende linguagem natural.
-*   **Base de Conhecimento**: Pergunte sobre diversos tópicos de jogos, animes e esportes.
-*   **Respostas Contextuais**: A IA utiliza os dados do projeto para formular respostas precisas.
-*   **Interface Limpa**: Um layout simples e intuitivo para facilitar a interação.
+*   **Galeria Dinâmica**: Os cards são gerados dinamicamente a partir de uma base de dados local.
+*   **Filtro por Categoria**: Selecione uma categoria (Jogos, Animes, Esportes) para visualizar apenas os itens relacionados.
+*   **Busca em Tempo Real**: Digite no campo de busca para filtrar os cards cujo nome corresponde à sua pesquisa.
+*   **Tema Claro/Escuro**: Alterne entre os modos de visualização para maior conforto visual.
 
 Demonstração do Projeto (https://bielzinhodev.github.io/Base-de-Conhecimento---imersao_dev/)
 
 ## 🚀 Tecnologias Utilizadas
 
 *   **HTML5**: Estrutura da página.
-*   **CSS3**: Estilização e design.
-*   **JavaScript**: Lógica da aplicação e interatividade.
-*   **Google Gemini API**: Motor da inteligência artificial para o chatbot.
+*   **CSS3**: Estilização, design responsivo e temas.
+*   **JavaScript**: Lógica da aplicação, manipulação do DOM, busca e filtro de dados.
 *   **JSON**: Formato do arquivo usado como base de conhecimento.
 
 ## ⚙️ Como Executar o Projeto
@@ -54,11 +53,7 @@ Para rodar este projeto localmente, você precisará de um navegador web e segui
 ## 📂 Estrutura do Projeto
 
 O projeto está organizado da seguinte forma:
-/ ├── assets/ │ ├── images/ # Imagens dos cards (jogos, animes, esportes.) 
-├── data.json # Base de conhecimento com os dados 
-├── index.html # Arquivo principal da estrutura HTML 
-├── style.css # Arquivo de estilos 
-└── script.js # Arquivo com a lógica do chatbot e integração com a API
+/ ├── assets/ │ ├── images/ # Imagens dos cards (jogos, animes, etc.) │ └── ... ├── data.json # Base de conhecimento com os dados ├── index.html # Arquivo principal da estrutura HTML ├── style.css # Arquivo de estilos └── script.js # Arquivo com a lógica de busca, filtro e renderização
 
 ## 🙏 Agradecimentos
 
